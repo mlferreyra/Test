@@ -121,19 +121,19 @@
 
                     if(password.length >= 8){
                         if(email=='vidadigital@gmail.com' && password=='vidadigital'){
-                            $("#mensaje-modal").html("Felicitaciones!!! los datos que ingresaste son correctos.");
+                            $("#mensaje-modal").html("Felicitaciones!!! Los datos ingresados son correctos.");
                             $("#mensaje-modal").addClass( "alert alert-success" );
                         }else{
                             $("#mensaje-modal").html("Los datos ingresados son incorrectos.");
                             $("#mensaje-modal").addClass( "alert alert-danger" );
                         }
                     }else{
-                        $("#mensaje-modal").html("Debe ingresar 8 o mas caracteres.");
+                        $("#mensaje-modal").html("Debe ingresar 8 o mas caracteres en el password.");
                         $("#mensaje-modal").addClass( "alert alert-danger" );    
                     }
    
                 }else{
-                    $("#mensaje-modal").html("El email no es valido.");
+                    $("#mensaje-modal").html("El email no es válido.");
                     $("#mensaje-modal").addClass( "alert alert-danger" );  
                 }
 
