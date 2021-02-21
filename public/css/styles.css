@@ -609,6 +609,9 @@ i.under-construction {
   .navbar2{
     background-color: white !important;
   }
+  .navbar2 .navbar-collapse.collapse .login >ul >li >a {
+    color: white!important;
+  }
   .navbar-collapse{
     margin-top: 50px;
     background-color: black;
