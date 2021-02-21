@@ -49,7 +49,7 @@
                 <div class="form-login-contenedor">
                 <h3>Login Form</h3>
                     <div class="form-login-espacio">
-                        <input type="text" name="email" id="email" class="form-control form-control-input " placeholder="Username">
+                        <input type="text" name="email" id="email" class="form-control form-control-input " placeholder="E-mail">
                     </div>
                     <div class="form-login-espacio">
                         <input type="password" name="password" id="password" class="form-control form-control-input " placeholder="Password">
