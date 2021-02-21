@@ -450,6 +450,9 @@ small {
   left: 0;
   z-index:1000;
 }
+.navbar2 .navbar-collapse.collapse .login >ul >li >a {
+color: black;
+}
 a {
   color: black;
   outline: none;
@@ -598,6 +601,7 @@ i.under-construction {
   .navbar .navbar-collapse.collapse .login >ul >li >a{
     color: rgba(255,255,255, .7);
   }
+  
   .navbar .navbar-collapse.collapse .error-login_a{
     color:black !important;
   }
