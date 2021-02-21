@@ -582,7 +582,7 @@ i.under-construction {
 }
 
 .navbar2 .navbar-collapse.collapse .login >ul >li >a{
-  color:white!important;
+  color:black!important;
 }
 
 @media (min-width: 766px){
