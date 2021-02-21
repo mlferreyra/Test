@@ -23,7 +23,7 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">   
-                        <div class="row">                        
+                        <div class="row">             
                             <div class="col login">
                                 <ul class="navbar-nav">
                                     <li class="">

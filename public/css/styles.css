@@ -451,7 +451,7 @@ small {
   z-index:1000;
 }
 .navbar2 .navbar-collapse.collapse .login >ul >li >a {
-color: black;
+color: black!important;
 }
 a {
   color: black;
@@ -582,10 +582,6 @@ i.under-construction {
 @-webkit-keyframes invertBarrelRoll {
     0% { -webkit-transform: rotate(0deg); }
     100% { -webkit-transform: rotate(-360deg); }
-}
-
-.navbar2 .navbar-collapse.collapse .login >ul >li >a{
-  color:black!important;
 }
 
 @media (min-width: 766px){
